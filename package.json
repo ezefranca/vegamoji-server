@@ -1,0 +1,15 @@
+{
+  "name": "Vegamoji-server",
+  "version": "1.0.0",
+  "description": "Vegamoji-server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ezequiel França",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-request-proxy": "^2.0.0"
+  }
+}
